@@ -6,12 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Ayam/SceneHome.unity
+    path: Assets/-Scenes/PilahSampah/Gameplay.unity
+    guid: 2a58b21a6f9e9b5409e05e6ea1e91862
+  - enabled: 1
+    path: Assets/-Scenes/PilahSampah/GameOver.unity
+    guid: c76b2df4de3f05249979419f0fc75dd5
+  - enabled: 1
+    path: Assets/-Scenes/MenuGame/Menu.unity
+    guid: 7117e4a6f58fc454491907a45b00bd1a
+  - enabled: 1
+    path: Assets/-Scenes/MenuGame/Loading.unity
+    guid: 8a86befd8f2a4ba4b941a74d9d46e515
+  - enabled: 1
+    path: Assets/-Scenes/MenuGame/Main.unity
+    guid: 6ff4891ce30ef8f46a96f4c609cf082b
+  - enabled: 1
+    path: Assets/-Scenes/Ayam/SceneHome.unity
     guid: 72fe3a296c7781e4d88338b34ab0484b
   - enabled: 1
-    path: Assets/Scenes/Ayam/SceneAnimal.unity
+    path: Assets/-Scenes/Ayam/SceneAnimal.unity
     guid: 50d84310e8420b447acf32e8576c42c7
   - enabled: 1
-    path: Assets/Scenes/Ayam/SceneKeluar.unity
+    path: Assets/-Scenes/Ayam/SceneKeluar.unity
     guid: e836b185f35629540a2dca69979c287d
   m_configObjects: {}
