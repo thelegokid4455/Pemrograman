@@ -50,4 +50,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/-Scenes/Platformer/Congratulations.unity
     guid: b1c4b243acd5c854e970b71677893d00
+  - enabled: 1
+    path: Assets/-Scenes/TD/TDGameplay.unity
+    guid: 7b65422c6a2778a498865f83dca7f04a
+  - enabled: 1
+    path: Assets/-Scenes/TD/TDGameover.unity
+    guid: 9af29f01691c39340a24dd45ed0d0297
   m_configObjects: {}

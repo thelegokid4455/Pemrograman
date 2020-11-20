@@ -5,4 +5,7 @@ using UnityEngine;
 public class Data
 {
     public static int score;
+    public static float coin = 300;
+    public static bool isGameOver = false;
+    public static bool isComplete = false;
 }
